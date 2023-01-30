@@ -1,0 +1,31 @@
+.otterthreats-div {
+    background-color: rgb(241, 239, 239);
+}
+
+.Left2 {
+    float: left;
+}
+
+.otterthreats-heading {
+    padding: 20px;
+}
+
+.otterthreats-credit {
+    font-size: 10px;
+}
+
+.otterstogether {
+    width: auto;
+    height: 350px;
+    border-radius: 35px;
+    padding: 27px;
+}
+.threat-container{
+    padding: 27px;
+    padding-bottom: 120px;
+}
+.Right2 {
+    padding: 27px;
+    background-color: #4F7CAC;
+    border-radius: 25px;
+}

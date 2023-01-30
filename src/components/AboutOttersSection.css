@@ -1,0 +1,30 @@
+.aboutotters-div {
+    background-color: rgb(241, 239, 239);
+}
+
+.Left {
+    float: left;
+}
+
+.aboutotters-scientific {
+    padding: 20px;
+}
+
+.aboutotters-credit {
+    font-size: 10px;
+}
+
+.img1 {
+    width: 400px;
+    height: auto;
+    border-radius: 35px;
+    padding: 27px;
+}
+.about-container{
+    padding: 27px;
+}
+.Right {
+    padding: 27px;
+    background-color: #4F7CAC;
+    border-radius: 25px;
+}

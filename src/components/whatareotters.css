@@ -1,0 +1,16 @@
+.Container {
+    width: 100%;
+}
+
+.Row {
+    width: 100%;
+    border-radius: 50px;
+}
+
+.Content {
+    width: 100%;
+}
+
+hr {
+    border: 1px solid #001F29;
+}

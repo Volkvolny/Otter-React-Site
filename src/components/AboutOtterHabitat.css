@@ -1,0 +1,35 @@
+.ottershabitat-div {
+    background-color: rgb(241, 239, 239);
+}
+
+.Right1 {
+    float: right;
+}
+
+.ottershabitat-heading {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    text-align: right;
+}
+
+.ottershabitat-credit {
+    font-size: 10px;
+}
+
+.babyOtters {
+    width: auto;
+    height: 350px;
+    border-radius: 35px;
+    padding: 27px;
+}
+.habitat-container{
+    padding: 27px;
+}
+.Left1 {
+    padding: 27px;
+    padding-bottom: 40px;
+    background-color: #4F7CAC;
+    border-radius: 25px;
+
+}
