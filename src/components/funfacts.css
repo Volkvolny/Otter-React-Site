@@ -1,0 +1,61 @@
+.fact-container {
+    background: url('/public/images/otter10.jpeg') center center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    object-fit: contain;
+}
+
+.fact-container > h1 {
+    color: rgb(241, 239, 239);
+    font-size: 100px;
+    margin-top: -100px;
+}
+
+.fact-container > p {
+    margin-top: 8px;
+    color: rgb(241, 239, 239);
+    font-size: 32px;
+}
+
+.funfact__container {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fact__row {
+    width: 100%;
+    display: flex;
+}
+
+.factCard {
+    width: 50%;
+}
+
+.margin__right {
+    margin-right: 40px;
+}
+
+@media screen and (max-width: 960px) {
+    .fact-container > h1 {
+        font-size: 70px;
+        margin-top: -150px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .fact-container > h1 {
+        font-size: 50px;
+        margin-top: -100px;
+    }
+
+    .fact-container > p {
+        font-size: 30px;
+    }
+}
