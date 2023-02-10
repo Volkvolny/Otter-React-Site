@@ -27,6 +27,7 @@ function OtterThreats() {
                     As the Exxon Valdez disaster made so painfully clear, the single greatest threat to sea otters is an oil spill. 
                     One large oil spill off the Central Coast of California could be catastrophic, with the potential of driving the entire southern sea otter population into extinction.
                     </p>
+                    <br />
                     <p className="otterthreats-credit"><em>Information Credit to National Geographic</em></p>
                </div>
             </div>
